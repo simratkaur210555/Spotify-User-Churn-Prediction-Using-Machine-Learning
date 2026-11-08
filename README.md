@@ -267,11 +267,11 @@ Lowering the threshold improves the model's ability to identify potential churne
 
 ### Gradio Interface
 
-![Spotify Churn Prediction Application Preview](assets/preview1.png)
+![Spotify Churn Prediction Application Preview](assets/Preview1.png)
 
 ### Prediction Output
 
-![Spotify Churn Prediction Result](assets/preview2.png)
+![Spotify Churn Prediction Result](assets/Preview2.png)
 
 ## 🚀 Getting Started
 
@@ -394,7 +394,6 @@ The generated model artifact is excluded from Git through `.gitignore`. Running 
 
 B.Tech Computer Science and Engineering (AI & ML)
 
-GitHub: [YOUR-GITHUB-PROFILE](https://github.com/YOUR-USERNAME)
 
 ---
 
